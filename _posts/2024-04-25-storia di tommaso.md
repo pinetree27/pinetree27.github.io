@@ -5,7 +5,7 @@ date: 2024-04-25
 description:
 tags:
 categories:
-thumbnail: assets/img/blog_posts/preview/storia-di-tommaso-preview.jpeg
+thumbnail: assets/img/blog_posts/preview/storia-di-tommaso-preview.jpg
 ---
 
 Collages for the Queer Things Take Time zine booklet, designed by Mattia Friso. 
