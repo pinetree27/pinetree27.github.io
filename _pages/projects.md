@@ -17,6 +17,6 @@ horizontal: false
   
 * *Monster piece*, contribution to the [Kleine Humboldt Galerie](https://www.kleinehumboldtgalerie.de/). Upcoming.
  
-* *Storia di Tommaso*, novella on queer time, Christian temporality and the Italian fascist war machine. Written in the context of a workshop led by Mattia Friso for Studierendenwerk Berlin and exhibited from 13 to 17 September 2023 in the collective "Queer Things Take Time" exhibition. Curated by [Mattia Friso](https://mattiafriso.com/).
+* [*Storia di Tommaso*](https://marialaurids.net/blog/2024/storia-di-tommaso/), novella on queer time, Christian temporality and the Italian fascist war machine. Written in the context of a workshop led by Mattia Friso for Studierendenwerk Berlin and exhibited from 13 to 17 September 2023 in the collective "Queer Things Take Time" exhibition. Curated by [Mattia Friso](https://mattiafriso.com/).
   
 * [*invocation - autofiction*](https://translucentgreenplasticpress.com/invocation-autofiction-1/), short autofictional story on love triangles and cannibalism, published on [translucent green plastic press](https://translucentgreenplasticpress.com/). Edited by Jonah Lubin and Mona Thierse.
