@@ -6,7 +6,6 @@ description:
 tags:
 categories:
 thumbnail: assets/img/blog_posts/preview/storia-di-tommaso-preview.jpg
-image: assets/img/blog_posts/posts/QueerThingsTakeTime-blank2bg.png
 ---
 ![]({{ assets/img/blog_posts/posts/QueerThingsTakeTime-blank2bg.png }})
 
