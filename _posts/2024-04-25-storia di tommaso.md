@@ -14,16 +14,22 @@ Storia di Tommaso is a performative story that attempts to tell a queer narrativ
 
 _First cluster: prologue / part V: the gospel of Tommaso / epilogue_
 {% include figure.liquid loading="eager" path="/assets/img/blog_posts/posts/qttt-cluster1-1.JPG" class="img-fluid rounded z-depth-1" %} 
-Introduction and conclusion to the story with words from the heart of the story, Tommaso's perspective.
-Installation with writing desk: candle, writing machine, writing paper, portrait and devotional image. Chair, jacket, and string from which the pages hung. At the side of the typewriter, a page invited comments and especially continuations of the story. Some five additions were made by visitors and hung alongside the other pages.
+<div class="caption">
+    Introduction and conclusion to the story with words from the heart of the story, Tommaso's perspective.
+    Installation with writing desk: candle, writing machine, writing paper, portrait and devotional image. Chair, jacket, and string from which the pages hung. At the side of the typewriter, a page invited comments and especially continuations of the story. Some five additions were made by visitors and hung alongside the other pages.
+</div>
 
 _Second cluster: part I: days of halcyon / part II: body_
 {% include figure.liquid loading="eager" path="/assets/img/blog_posts/posts/qttt-cluster2-1.JPG" class="img-fluid rounded z-depth-1" %} 
-Tommaso and Johannes' childhood in South Tyrol. Account by Johannes in German, mine in English. Arranged in a tree-like pattern, growing 'sideways'.
+<div class="caption">
+    Tommaso and Johannes' childhood in South Tyrol. Account by Johannes in German, mine in English. Arranged in a tree-like pattern, growing 'sideways'.
+</div>
 
 _Third cluster - part IV: Bekehrung_
 {% include figure.liquid loading="eager" path="/assets/img/blog_posts/posts/qttt-cluster3-1.JPG" class="img-fluid rounded z-depth-1" %}
-Three accounts of Tommaso's conversion in German, English, Italian. Arranged in a spiral-like movement.
+<div class="caption">
+    Three accounts of Tommaso's conversion in German, English, Italian. Arranged in a spiral-like movement.
+</div>
 
 
 Collages for the collective *Queer Things Take Time zine booklet*, one for each session of the workshop: queer apocalypse; queer childhood; queering the archive; queering the public space.
