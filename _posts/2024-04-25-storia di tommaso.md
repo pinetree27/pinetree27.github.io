@@ -13,7 +13,8 @@ Exhibition with [Agata Hörttrich](https://www.agatahoerttrich.com/queerthingsta
 Storia di Tommaso is a performative story that attempts to tell a queer narrative of becoming, finding identity and purpose outside of the frames of linear storytelling and timelines. Result of the Queer Things Take Time workshop and exhibited in the omonimous exhibition in September 2023, it is a novella informed by  concepts of queer temporalities. Set in the first part of the 20th century in South Tyrol, the story is told over multiple languages and perspectives of witnesses to one man's story who, during the Italian colonisation of the land and its subsequent attack on Ethiopia, tried to define himself across the the frames and temporalities of Christianity and Italianess. 
 
 _First cluster: prologue / part V: the gospel of Tommaso / epilogue_
-{% include figure.liquid loading="eager" path="/assets/img/blog_posts/posts/qttt-cluster1-1.JPG" class="img-fluid rounded z-depth-1" %} 
+{% include figure.liquid loading="eager" path="/assets/img/blog_posts/posts/qttt-cluster1-1.JPG" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="/assets/img/blog_posts/posts/qttt-cluster3-1.JPG" class="img-fluid rounded z-depth-1" %}
 <div class="caption">
     Introduction and conclusion to the story with words from the heart of the story, Tommaso's perspective.
     Installation with writing desk: candle, writing machine, writing paper, portrait and devotional image. Chair, jacket, and string from which the pages hung. At the side of the typewriter, a page invited comments and especially continuations of the story. Some five additions were made by visitors and hung alongside the other pages.
