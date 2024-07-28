@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Recent work
+title: recent work
 permalink: /recent_work/
 description:
 nav: true
