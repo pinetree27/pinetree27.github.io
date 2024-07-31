@@ -5,7 +5,7 @@ date: 2024-04-25
 description:
 tags:
 categories:
-thumbnail: /assets/img/blog_posts/preview/storia-di-tommaso-preview.jpg
+thumbnail: /assets/blog_posts/preview/storia-di-tommaso-preview.jpg
 ---
 
 Exhibition with [Agata Hörttrich](https://www.agatahoerttrich.com/queerthingstaketime), Coco Wiss, [Ezequiel Hyon](https://www.instagram.com/ezehyon/), [Jean-Noël Teschauer](https://bueronoelle.com/), [Jil Schuberth](https://www.instagram.com/jilschuberth/), Lu Herbst, [Lula Bornhak](http://lulabornhak.com/), [Maja Zagórska](https://majazagorska.com/), Mascha Naumann, [Mattia Friso](https://mattiafriso.com/), [Richard Müller](https://www.instagram.com/targetlady/), [Steve C.E. Knoll](https://www.instagram.com/scek_art/) and [Véra Marie Deubner](https://veramariedeubner.com/).
@@ -13,7 +13,6 @@ Exhibition with [Agata Hörttrich](https://www.agatahoerttrich.com/queerthingsta
 Storia di Tommaso is a performative story that attempts to tell a queer narrative of becoming, finding identity and purpose outside of the frames of linear storytelling and timelines. Result of the Queer Things Take Time workshop and exhibited in the omonimous exhibition in September 2023, it is a novella informed by  concepts of queer temporalities. Set in the first part of the 20th century in South Tyrol, the story is told over multiple languages and perspectives of witnesses to one man's story who, during the Italian colonisation of the land and its subsequent attack on Ethiopia, tried to define himself across the the frames and temporalities of Christianity and Italianess. 
 
 _First cluster: prologue / part V: the gospel of Tommaso / epilogue_
-{% include figure.liquid loading="eager" path="/assets/img/blog_posts/posts/qttt-cluster1-1.JPG" class="img-fluid rounded z-depth-1" %}
 {% include figure.liquid loading="eager" path="assets/blog_posts/posts/qttt-cluster1-1.JPG" class="img-fluid rounded z-depth-1" %}
 <div class="caption">
     Introduction and conclusion to the story with words from the heart of the story, Tommaso's perspective.
@@ -23,13 +22,13 @@ _First cluster: prologue / part V: the gospel of Tommaso / epilogue_
 
 
 _Second cluster: part I: days of halcyon / part II: body_
-{% include figure.liquid loading="eager" path="/assets/img/blog_posts/posts/qttt-cluster2-1.JPG" class="img-fluid rounded z-depth-1" %} 
+{% include figure.liquid loading="eager" path="assets/blog_posts/posts/qttt-cluster2-1.JPG" class="img-fluid rounded z-depth-1" %} 
 <div class="caption">
     Tommaso and Johannes' childhood in South Tyrol. Account by Johannes in German, mine in English. Arranged in a tree-like pattern, growing 'sideways'.
 </div>
 
 _Third cluster - part IV: Bekehrung_
-{% include figure.liquid loading="eager" path="/assets/img/blog_posts/posts/qttt-cluster3-1.JPG" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/blog_posts/posts/qttt-cluster3-1.JPG" class="img-fluid rounded z-depth-1" %}
 <div class="caption">
     Three accounts of Tommaso's conversion in German, English, Italian. Arranged in a spiral-like movement.
 </div>
@@ -39,15 +38,15 @@ Collages for the collective *Queer Things Take Time zine booklet*, one for each 
 
 <div class="row mt-4">
     <div class="col-sm mt-4 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog_posts/posts/zine1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/blog_posts/posts/zine1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-4 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog_posts/posts/zine2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/blog_posts/posts/zine2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
    <div class="col-sm mt-4 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog_posts/posts/zine3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/blog_posts/posts/zine3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
    <div class="col-sm mt-4 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog_posts/posts/zine4.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/blog_posts/posts/zine4.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
