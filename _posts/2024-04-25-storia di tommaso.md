@@ -28,7 +28,7 @@ _Second cluster: part I: days of halcyon / part II: body_
 </div>
 
 _Third cluster - part IV: Bekehrung_
-{% include figure.liquid loading="eager" path="assets/img/blog_posts/posts/qttt-cluster3-1.JPG" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/blog_posts/posts/qttt-cluster3-1.JPG" class="img-fluid rounded z-depth-1" %}
 <div class="caption">
     Three accounts of Tommaso's conversion in German, English, Italian. Arranged in a spiral-like movement.
 </div>
