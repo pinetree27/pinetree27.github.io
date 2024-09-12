@@ -1,3 +1,4 @@
+---
 layout: post
 title: "after the exhibition (october 2023)"
 ---
