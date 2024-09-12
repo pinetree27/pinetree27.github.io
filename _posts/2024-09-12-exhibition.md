@@ -13,5 +13,3 @@ title: "after the exhibition (october 2023)"
 <p>What came back to me after reading his story out loud, overwhelmed with emotion:</p>
 <p>•	I think that writing is constantly failing at what you love.</p>
 <p>•	The magic of us, what we can do together.</p>
-</section>
-</body>
