@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "invocation - autofiction *"
+title: "invocation - autofiction * (may 2023)"
 thumbnail: /assets/blog_posts/preview/inv-autof1-preview.png
 ---
 
