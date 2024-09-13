@@ -14,7 +14,15 @@ title: "after the exhibition (october 2023)"
    <tr>
      <td>Image</td><td>(value)</td>
    </tr>
-   <tr>
+   <th>
      <td>Text</td><td>(value2)</td>
-   </tr>
+   </th>
+</table>
+
+<table cellpadding="0" cellspacing="0" border="0" >
+<tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
 </table>
