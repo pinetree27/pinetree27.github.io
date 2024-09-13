@@ -3,34 +3,21 @@ layout: post
 title: "after the exhibition (october 2023)"
 ---
 <style>
+img {
+  float: left;
+  border: 1px dotted black;
+  margin: 0px 20px 10px 20px;
+}
 body {
- font-size: 50%;
- text-align: justify
-}
-
-div {
-  text-align: right;
-}
-
+  text-alignment: justified
 </style>
-
-<div>
-  <img src="/assets/blog_posts/posts/aftertheexhibition.jpeg.jpg" alt="exhibition picture" style='height: 20%; width: 20%; object-fit: contain'> 
-  <span><p>What came back to me after reading his story out loud, overwhelmed with emotion:</p>
-<p>•	I think that writing is constantly failing at what you love.</p>
-<p>•	The magic of us, what we can do together.</p></span>
-</div>
-
+</head>
 <body>
 
-<table style='width:100%'>
-  <tr>
-    <td>
-    <img src="https://marialaurids.net/assets/blog_posts/posts/aftertheexhibition.jpeg.jpg" alt="exhibition picture" style='height: 500%; width: 500%; vertical-align: top'>
-    </td>
-    <td>
-    <p>AFTER THE EXHIBITION</p>
-<p>What came back to me after reading his story out loud, overwhelmed with emotion:</p>
+<h2 style='margin:0px 20px 15px 20px'>After the exhibition</h2>
+
+<p><img src="https://marialaurids.net/assets/blog_posts/posts/aftertheexhibition.jpeg.jpg" width="50%" height="50%">
+What came back to me after reading his story out loud, overwhelmed with emotion:</p>
 <p>•	I think that writing is constantly failing at what you love.</p>
 <p>•	The magic of us, what we can do together.</p>
 <p>•	Flashbacks of Prague in February, being alone but knowing that there was someone waiting for me. The last months before leaving home, all of its beauty and horror, the terrifying unending hours of preparation, the time carved away for my friends. The last week; singing with Ivan at the night, the hours at the bars which advanced slowly. The month I lived with Bea and I felt the pull to stay, to move a little closer. Beginning of October, when my brother came to visit in my student dorm and we walked alongside the same life for a little while again. The morning I arrived in Paris, tired and confused, and Saou picked me up from the station and put together a huge breakfast that went on for hours. The sunlit evenings of the first lockdown, when I forced myself to write every night and something came out of that, too, even if it didn’t have to.</p>
@@ -41,8 +28,7 @@ div {
 <p>•	One day the sum of the exhibition will rise again over me and I will remember.</p>
 <p>•	That evening and days later me and Coco talked about the specific shapes of this magic and found them to be, again, synchronous. To each of us a narrative. The one I’ve landed on: the magic was the magic. You should’ve been there. And this magic was the magic of us. Of our time: the days and the particular moment of our meeting, the few months we shared. The magic is the magic of us, doing the thing we love, out of love. This magic was all around us and it came and went in waves, because pure, continuous feeling is unsustainable, but it never went away. It reached its highest – the point of maximum concentration – when I read Tommaso’s words for the second time, having gathered my words and my love. Then, afterwards, when we hosted the second guided tour for strangers who, in one day, would live to see three, four exhibitions, who knows how many objects, how many labours of love. We guided them, as we were required to, but I felt that no one else was let in on the secret, the magic that we shared, because that’s not something you can give away and because we’re petty like that. And we really were like children, swimming around, in and out of the swarming schools of strangers, hyping up those for whom the time had come to stand alone and explain, in front of the public, with words reasonable and intimate enough their work, until the moment was over, the light moved away, and we were reabsorbed into our little group to be congratulated and held. Always a good word, a work of love.</p>
 <p>•	Happiness feels like honey dripping into the heart. I find out happiness gifts time back and I go out of our group to see my friends, my boyfriend, to send messages to the absent and to the unwilling, because I need to tell everyone.</p>
-    </td>
-  </tr>
+</body>
 </table>
 
 </body>
