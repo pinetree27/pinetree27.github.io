@@ -16,7 +16,7 @@ body {
 
 <p><img src="https://marialaurids.net/assets/blog_posts/posts/aftertheexhibition.jpeg.jpg" width="50%" height="50%">
 What came back to me after I read his story out loud, overwhelmed with emotion, or later coagulated around it:</p>
-<ol>
+<ul>
   <li>I feel that loving writing is constantly failing at the thing you love.</li>
   <li>The magic of us, what we can do together.</li>
   <li>Prague in February, when I was alone but I knew that someone was waiting for me back in Berlin, in the room where the apple tree that Steve gave me will, surprisingly, survive a whole winter, a bit of spring too. The last months before leaving home: all of its beauty and terror, the long hours of preparations, the time carved away for my friends. The last week, singing at the night with I., the hours at the bar, which advanced slowly; the month I lived with B. and I felt the pull to stay, to move in a little closer. Beginning of an October past, when F. came to visit and we walked along the same life for a little while again. The morning I’ll arrive to Paris, battered and confused, and S. will pick me up from the station and organize a huge breakfast that will go on for hours; days later, when I’ll smoke with F. on the balcony and try to explain the kind of life I’m preparing, what still scares me. What came out of the exhibition – it will be too early for this, and I will fail, again.</li>
@@ -33,4 +33,4 @@ What came back to me after I read his story out loud, overwhelmed with emotion, 
   <li>I knew that something in my heart had shifted (like an old cosmic mechanism commanding the eclipse and the seasons of the moon) as I read the last words of Tommaso. I knew then that, despite my imprecisions, my rushing, my shortcomings, the slips of my pen and my mouth, despite myself, that Tommaso is alive, that he had made it through, that the ritual had been successful.</li>
   <li>I realized last week, getting sentimental again with Lula, that I’m not done talking about this. I don’t want to exhaust the magic, to say it all. </li>
   <li>Happiness is honey dripping into the heart. I move around our group like a zealot (in the blue coat Jean-Noël said made me look like a gay wizard), I want to know of everyone, I need everyone of us to know; then I step out of our swarm to see my friends, my boyfriend, to send messages to the absent and the unwilling, because I need to tell everyone that the magic was happiness and I found out that happiness gifts time back.</li>
-</ol>
+</ul>
