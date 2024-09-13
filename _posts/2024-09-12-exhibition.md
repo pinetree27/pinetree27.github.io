@@ -11,7 +11,7 @@ img {
 body {
   text-alignment: justified
 </style>
-</head>
+
 <body>
 
 <h2 style='margin:0px 20px 15px 20px'>After the exhibition</h2>
