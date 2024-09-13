@@ -6,7 +6,7 @@ title: "after the exhibition (october 2023/september 2024)"
 img {
   float: left;
   border: 1px dotted black;
-  margin: 0px 10px 10px 10px;
+  margin: 0px 10px 0px 10px;
 }
 body {
   text-alignment: justified
