@@ -14,7 +14,7 @@ body {
 
 <h2 style='margin:0px 20px 15px 20px'>After the exhibition</h2>
 
-<p><img src="https://marialaurids.net/assets/blog_posts/posts/aftertheexhibition.jpeg.jpg" alt="Coco and Lu's piece for the exhibition" width="50%" height="50%">
+<p style='margin:0px 20px 15px 20px'><img src="https://marialaurids.net/assets/blog_posts/posts/aftertheexhibition.jpeg.jpg" alt="Coco and Lu's piece for the exhibition" width="50%" height="50%">
 What came back to me after I read his story out loud, overwhelmed with emotion, or later coagulated around it:</p>
 <ul>
   <li>I feel that loving writing is constantly failing at the thing you love.</li>
