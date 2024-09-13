@@ -1,6 +1,6 @@
 ---
 layout: post
-title: after the exhib
+title: "after the exhibition"
 ---
 <style>
 .flex-container {
