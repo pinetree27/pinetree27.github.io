@@ -11,7 +11,7 @@ horizontal: false
 
 <!-- pages/projects.md -->
 ---
-* *3- Fantasi om ett house* for the [Astra 4/2024](https://www.astra.fi/) issue on Translation/Översättning, a short story on a little ceramic house and learning Swedish. Third part of the _Lilla huset series_, the firsts of which are published on the blog. With Konrad Karlsson. December 2024.
+* *3- Fantasi om ett house* for the [Astra 4/2024](https://www.astra.fi/) issue on Translation/Översättning, a short story on a little ceramic house and learning Swedish. Third part of the _Lilla huset series_: the first one, _Barndomsfragmentet_ (in two parts) on Mumin fan/fiction, queer childhood and memory, as well as the second, _Gotländska summer mornings_, are being published on the blog. With Konrad Karlsson. December 2024.
   
 * Short story *Imagine a knife*, fragment on the European mind and colonial artifacts, for *The Sinking*,  contribution to the "Fiction" issue of the anthropological journal [Ethnofoor](https://etnofoor.nl/issue/fiction) as part of the Speculative Futures Collective. July 2024. 
 
