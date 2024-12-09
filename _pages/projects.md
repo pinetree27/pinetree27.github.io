@@ -11,6 +11,8 @@ horizontal: false
 
 <!-- pages/projects.md -->
 ---
+* *3- Fantasi om ett house* for the [Astra 4/2024](https://www.astra.fi/) issue on Translation/Översättning, a short story on little ceramic houses and learning Swedish. Third part of the _Lilla huset series_, the firsts of which are published on the blog. With Konrad Karlsson. December 2024.
+  
 * Short story *Imagine a knife*, fragment on the European mind and colonial artifacts, for *The Sinking*,  contribution to the "Fiction" issue of the anthropological journal [Ethnofoor](https://etnofoor.nl/issue/fiction) as part of the Speculative Futures Collective. July 2024. 
 
 * [*Pseudo-Boccaccio, Yiddish Pulp Fiction, and the Man Who Ripped Off Joyce*](https://publicdomainreview.org/essay/pseudo-boccaccio-yiddish-pulp-fiction-and-the-man-who-ripped-off-joyce/), an essay on autorship and translation tracing the origin of two Pseudo-Boccaccio tales in English and Yiddish. Written with [Jonah Lubin](https://jonahlubin.net/), The Public Domain Review, 2024.
