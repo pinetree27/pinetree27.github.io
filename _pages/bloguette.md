@@ -5,7 +5,7 @@ permalink: /bloguette/
 nav: true
 nav_order: 3
 horizontal: false
-show: false
+hidden: true
 ---
 
 bloguette
