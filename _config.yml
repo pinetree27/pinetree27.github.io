@@ -185,6 +185,7 @@ latest_posts:
 
   bloguette:
     enabled: false
+    hidden: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
