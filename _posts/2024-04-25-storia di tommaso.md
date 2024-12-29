@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "storia di tommaso (september 2023)"
+title: "storia di tommaso"
 date: 2024-04-25
 description:
 tags:
 categories:
 thumbnail: /assets/blog_posts/preview/storia-di-tommaso-preview.jpg
 ---
+<i>September 2023.</i>
 
 Exhibition with [Agata Hörttrich](https://www.agatahoerttrich.com/queerthingstaketime), Coco Wiss, [Ezequiel Hyon](https://www.instagram.com/ezehyon/), [Jean-Noël Teschauer](https://bueronoelle.com/), [Jil Schuberth](https://www.instagram.com/jilschuberth/), Lu Herbst, [Lula Bornhak](http://lulabornhak.com/), [Maja Zagórska](https://majazagorska.com/), Mascha Naumann, [Mattia Friso](https://mattiafriso.com/), [Richard Müller](https://www.instagram.com/targetlady/), [Steve C.E. Knoll](https://www.instagram.com/scek_art/) and [Véra Marie Deubner](https://veramariedeubner.com/).
 
