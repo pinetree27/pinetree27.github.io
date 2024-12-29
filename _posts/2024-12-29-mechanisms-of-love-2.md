@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Mechanisms of love 2"
-tags: mechanisms of love; a nameless desire; all of us strangers
+tags: mechanisms-of-love; a-nameless-desire; all-of-us-strangers
 ---
+
 <i>Contains spoilers for the movies “Where are you going, habibi?” (Iben), “Weekend” (Haigh), “All of Us Strangers” (Haigh). I sincerely encourage you to watch at least "Weekend" and "ALl of Us Strangers" before reading this short post or skipping it. They're absolutely worth the time.</i>
 
 <i> «I can't connect
@@ -50,7 +51,7 @@ But if I were to compare and contrast the use of the bike in both movies, if I w
 
 I’ve read reviews arguing that “Habibi” doesn’t go anywhere, that it’s too fast or too slow, and that’s all true somehow. Part of me wishes that I could write something more elegant, more detached, to change their minds, to clean the slate of the film. I wish I could tell them that the last scene, where the straight? and the gay guy are running around Tempelhof, getting drunk and almost totally naked, was very sweet to me. That it reminded me of my adolescence, of the nameless desire I had then which has remained nameless today, sated temporarily by the straight boys I had short-lasting but intense friendshops with that always lapped on the sentimental, the romantic. That sometimes running around at night and being a fool with your straight best friend is all you can have. That sometimes it’s what you want, too, that sometimes, many years later, you wonder if that was what you really needed, what your heart wanted. But autobiography is a defunct genre now, autobiographical feeling always entails something suspicious, and people are very quick to dismiss it today.
 
-In bringing these two movies together, they form a memory, a hard core that I hope I will not forget. The sense of these days (these weeks alone, the passing of Christmas, a few of those numb days before New Year’s eve) coagulate around it. I still do not know what criticims, or writing in general, can do for my love. And it’s not even criticism – just sustained, more or less rigorous thinking. It’s not academia. It’s not pure writing because that’d be fan-fiction, which, in its pure form, I haven’t really tried. It’s an essay in the sense of an attempt. Zine writing, maybe. A blog post.
+In bringing these two movies together, they begin to form a memory, a hard core that I hope I will not forget. The sense of these days (these weeks alone, the passing of Christmas, a few of those numb days before New Year’s eve) coagulate around it. I still do not know what criticims, or writing in general, can do for my love. And it’s not even criticism – just sustained, more or less rigorous thinking. It’s not academia. It’s not pure writing because that’d be fan-fiction, which, in its pure form, I haven’t really tried. It’s an essay in the sense of an attempt. Zine writing, maybe. A blog post.
 
 Same as when I was a child, I do not know what to make of my love. But it must go somewhere. It must.
 
