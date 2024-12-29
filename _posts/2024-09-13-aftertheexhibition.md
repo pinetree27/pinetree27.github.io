@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "after the exhibition (october 2023/september 2024)"
+title: "after the exhibition"
 ---
 <style>
 img {
