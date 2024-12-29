@@ -3,8 +3,7 @@ layout: post
 title: "mechanisms of love 2"
 tags: mechanisms of love, a nameless desire, all of us strangers
 ---
-
-<h1>MECHANISMS OF LOVE 2</h>
+<h1>MECHANISMS OF LOVE 2</h1>
 <i>Contains spoilers for the movies “Where are you going, habibi?” (Iben), “Weekend” (Haigh), “All of Us Strangers” (Haigh).</i>
 
 <i> «I can connect
