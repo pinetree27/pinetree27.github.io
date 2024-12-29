@@ -3,7 +3,7 @@ layout: post
 title: "Mechanisms of love 2"
 tags: mechanisms of love; a nameless desire; all of us strangers
 ---
-<i>Contains spoilers for the movies “Where are you going, habibi?” (Iben), “Weekend” (Haigh), “All of Us Strangers” (Haigh).</i>
+<i>Contains spoilers for the movies “Where are you going, habibi?” (Iben), “Weekend” (Haigh), “All of Us Strangers” (Haigh). I sincerely encourage you to watch at least "Weekend" and "ALl of Us Strangers" before reading this short post or skipping it. They're absolutely worth the time.</i>
 
 > <i> «I can connect
 nothing with nothing»</i>
