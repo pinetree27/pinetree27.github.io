@@ -11,7 +11,8 @@ img {
 body {
   text-alignment: justified
 </style>
-
+<i>October 2023_September 2024.</i>
+  
 <p>What came back to me after I read his story out loud, overwhelmed with emotion, or later coagulated around it:</p>
 <ul>
   <img src="https://marialaurids.net/assets/blog_posts/posts/aftertheexhibition.jpeg.jpg" alt="A space aside inside of a partly lit underground garage. The space is enveloped by curtains with white and blue hues." width="50%" height="50%"> <li>I feel that loving writing is constantly failing at the thing you love.</li>
