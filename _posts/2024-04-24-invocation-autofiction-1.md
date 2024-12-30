@@ -2,6 +2,7 @@
 layout: post
 title: "invocation - autofiction *"
 thumbnail: /assets/blog_posts/preview/inv-autof1-preview.png
+tags: hermann; invocation;
 ---
 <i>May 2023.</i>
 
