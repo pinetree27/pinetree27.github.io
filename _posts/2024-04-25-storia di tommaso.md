@@ -3,7 +3,7 @@ layout: post
 title: "storia di tommaso"
 date: 2024-04-25
 description:
-tags:
+tags: storia-di-tommaso; queer-things-take-time
 categories:
 thumbnail: /assets/blog_posts/preview/storia-di-tommaso-preview.jpg
 ---
