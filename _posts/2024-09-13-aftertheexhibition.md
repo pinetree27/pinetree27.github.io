@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "after the exhibition"
+tags: queer-things-take-time
 ---
 <style>
 img {
