@@ -56,4 +56,4 @@ Same as when I was a child, I do not know what to make of my love. But it must g
 
 [^1]: Two reviews in particular are worthy of contempt: [this one](https://www.imdb.com/review/rw7421525/?ref_=rw_urv) who argues that the movie is good only for "gay movie standards", which is ludicrous because objectively speaking it must one of the worst ‘LGBT’ movies I’ve seen, and [this other](https://www.imdb.com/review/rw3697702/?ref_=rw_urv) who, in 2017, argued that racism has been solved in Germany and the movie’s portrayal of it is unfair. I couldn’t help but wonder, why are are all people called Horst assholes?
 [^2]: (Pompous bastard.)
-[^3]: RIlke and his letters to a young poet are also, if not mostly, to blame.
+[^3]: RIlke and his "Letters to a young poet" are also, if not mostly, to blame.
