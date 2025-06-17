@@ -19,8 +19,8 @@ tags: lilla-huset; childhood-theory; all-of-us-strangers;
     left: 0;
 }
 </style>
-<i>Med och till Konrad Karlsson.</i> May 2024_June 2025. You can read the first part <a href="marialaurids.net/blog/2024/barndomsfragment1">here</a>.<br>
-TW: childhood abuse, though without any specific description. Spoilers for All Of Us Strangers (Haigh, 2023).
+<i>Med och till Konrad Karlsson. May 2024_June 2025. You can read the first part <a href="marialaurids.net/blog/2024/barndomsfragment1">here</a>.<br>
+TW: childhood abuse, though without details. Spoilers for All Of Us Strangers (Haigh, 2023).</i>
 
 
  🌹 Sometimes, as I dozed off on the bus from Krumme Lanke to my room in Schlachtensee, I found myself thinking back to the child I was: this intruder, this unknown, this obstinate dissonance in my story, a ‘him’ refusing being dealt away with. I had just changed my name, my tongue, my home. One year before I met you, before Mårran or Troll I Kulisserna, I found myself stuck between this sudden need to remember and the scarceness of my memories, the hardness of those that had coagulated around silence, unspeakability. I started looking for a frame for him, something to hold him in place, together, before he disappeared again. I watched Petite Fille and I found a <i>her</i>, then something else, running alongside him, children and phantoms sharing the same game, the same running. The semester you and I met was quite calm; in the following, I read about queer temporalities for the first time and, at the QTTT workshop, I found out that it had already been written about the child. It was what I needed – for myself, for him, for Mignon. 
