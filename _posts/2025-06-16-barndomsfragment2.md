@@ -19,7 +19,7 @@ tags: lilla-huset; childhood-theory; moomin; all-of-us-strangers;
     left: 0;
 }
 </style>
-<i>Med och till Konrad Karlsson. May 2024_June 2025. You can read the first part <a href="https://marialaurids.net/blog/2024/barndomsfragment1/>here</a>.<br>
+<i>Med och till Konrad Karlsson. May 2024_June 2025. You can read the first part <a href="https://marialaurids.net/blog/2024/barndomsfragment1/">here</a>.<br>
 TW: childhood abuse, though without details. Spoilers for All Of Us Strangers (Haigh, 2023).</i>
 
 
